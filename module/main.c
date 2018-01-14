@@ -1,2 +1,3 @@
-print("123");
-
+int(int i, int j){
+	print("123");
+}
