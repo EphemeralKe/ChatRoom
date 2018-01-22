@@ -1,0 +1,11 @@
+count << start(kb) <<
+<<<<<<< HEAD
+count << stop(kb) <<
+=======
+count << run(kb) <<
+<<<<<<< HEAD
+>>>>>>> bugfix
+=======
+count << stop(kb) <<
+
+>>>>>>> bugfix
