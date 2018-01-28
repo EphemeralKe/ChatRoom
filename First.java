@@ -3,5 +3,6 @@ public class First{
 		System.out.println("My first java program, hello.");
 		FileChannel.open();
 		System.out.println("start(kb.cpp)");
+		System.out.println("start(mouse.cpp)");
 	}
 }
